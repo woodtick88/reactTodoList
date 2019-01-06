@@ -1,0 +1,12 @@
+.item-add-from {
+  margin-top: 20px;
+  display: flex;
+}
+
+.item-add-from input {
+  margin-right: 5px;
+}
+
+.item-add-from button {
+  min-width: 100px;
+}
